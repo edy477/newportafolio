@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sapper{
+    background-color: #1C212B;
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+
+}
+
+.transition-fade{
+
+
+    font-family: 'Spartan', sans-serif;
+}
+
+
+.education{
+    height: 70vh;
+    width: 65vw;
+    display: grid;
+    grid-template-columns: 5px  2fr 1fr;
+    font-family: 'Spartan', sans-serif;
+
+
+}
+.years{
+    grid-column: 1/1;
+
+}
+.context{
+    grid-column: 2/4;
+}
+.years > span >  h1 {
+
+
+}
+.vertical-line{
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    margin: 0 10px;
+    margin-left: 10px;
+    height: 29vh;
+
+    position:absolute; z-index:3;
+    transform: translate(15px, 10px);
+
+
+}
+.contact {
+background-color:#dedfe4 ;
+    display: grid;
+    width: 50vw;
+    height: 70vh;
+    grid-template-columns: 20vw 2fr;
+}
+.contact-form{
+
+    grid-column: 2/3;
+}
+.contact-links{
+
+    grid-column: 1/1;
+}
