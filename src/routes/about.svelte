@@ -13,6 +13,6 @@
 	<div class="descriptions overflow-hidden text-black  pl-8 pt-5 w-full pr-10">
 		<h1 class="text-black text-center text-4xl">About Me</h1>
 		<br/>
-		<p class="text-black text-justify text-2xl">Im Jose Eduardo, i was born in Guatemala and recent graduated in B.S Electronic and Communication Engineering, but i my main  experience has been focused  in software development where my scope extends from desktop application to  web applications  </p>
+		<p class="text-black text-justify text-2xl">Im Jose Eduardo, i was born in Guatemala.Recently  graduated in B.S Electronic and Communication Engineering, but  my main  experience has been focused  in software development where my scope extends from desktop applications to  web applications </p>
 	</div>
 </div>
