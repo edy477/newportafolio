@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cdbff6-ad04-49d0-8d51-b7afcdacf756" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/app1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/_layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/_layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/about.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/about.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/contact.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/contact.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/projects.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/skills.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/skills.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/tailwind.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Svelte Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +77,12 @@
       <workItem from="1588365044465" duration="15576000" />
       <workItem from="1588382914425" duration="6415000" />
       <workItem from="1588430472417" duration="18228000" />
-      <workItem from="1588535270335" duration="3660000" />
+      <workItem from="1588535270335" duration="10682000" />
+      <workItem from="1588959178697" duration="1300000" />
+      <workItem from="1588965379764" duration="33000" />
+      <workItem from="1588965424968" duration="4638000" />
+      <workItem from="1588973333170" duration="1331000" />
+      <workItem from="1588975303203" duration="4513000" />
     </task>
     <servers />
   </component>

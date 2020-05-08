@@ -4,11 +4,14 @@
 
 #sapper{
     background-color: #1C212B;
+  /*  background-image: linear-gradient(to right top, #0f1b2f, #0e172b, #0d1227, #0c0c23, #0a051f);*/
+  /*  background-color: #0f1b2f;*/
     height: 100vh;
     font-family: 'Nunito', sans-serif;
     font-weight: 500;
 
 }
+
 
 .transition-fade{
 
@@ -16,9 +19,17 @@
     font-family: 'Spartan', sans-serif;
 }
 
+.transition-fade {
+    transition: 0.45s;
+    opacity: 1;
+}
+
+html.is-animating .transition-fade {
+    opacity: 0;
+}
 
 .education{
-    height: 70vh;
+    height: 75vh;
     width: 65vw;
     display: grid;
     grid-template-columns: 5px  2fr 1fr;
@@ -50,17 +61,58 @@
 
 }
 .contact {
-background-color:#dedfe4 ;
-    display: grid;
-    width: 50vw;
+
+ /*   display: grid;*/
+    width: 40vw;
     height: 70vh;
-    grid-template-columns: 20vw 2fr;
+  /*  grid-template-columns: 30vw 1fr;*/
 }
 .contact-form{
 
-    grid-column: 2/3;
+/*    grid-column: 3/3;*/
 }
 .contact-links{
 
-    grid-column: 1/1;
+   /* grid-column: 1/1;*/
 }
+.first{
+    display: grid;
+    width: 65vw;
+    height: 45vh;
+    grid-template-columns: 30vw 2fr;
+}
+.description{
+    grid-column: 1/1;
+
+}
+.images{
+    grid-column: 2/3;
+}
+.about{
+    display: grid;
+    height: 62vh;
+    width: 60vw;
+    grid-template-columns: 30vw  1fr;
+
+}
+
+.myimage{
+    grid-column: 1/2;
+}
+.descriptions{
+    grid-column: 2/3;
+}/*
+.profile{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 75%;
+}
+.profile > img{
+    width:100%;
+    height: auto;
+    transform: rotate(-90deg);
+    object-fit: contain;
+
+}*/
